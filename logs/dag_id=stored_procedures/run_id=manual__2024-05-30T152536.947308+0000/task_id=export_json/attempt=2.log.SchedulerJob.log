@@ -1,0 +1,2 @@
+[2024-05-31T07:57:29.875+0000] {task_context_logger.py:104} WARNING - Marking task instance <TaskInstance: stored_procedures.export_json manual__2024-05-30T15:25:36.947308+00:00 [queued]> stuck in queued as failed. If the task instance has available retries, it will be retried.
+[2024-05-31T07:57:30.197+0000] {task_context_logger.py:104} ERROR - Executor reports task instance <TaskInstance: stored_procedures.export_json manual__2024-05-30T15:25:36.947308+00:00 [queued]> finished (failed) although the task says it's queued. (Info: None) Was the task killed externally?
